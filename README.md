@@ -1,0 +1,2 @@
+# CherryX
+ShareX in GTK
